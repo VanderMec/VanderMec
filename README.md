@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a Mechanical Engineering student and I am currently interested in python with a view to learning data analysis and AI.
 
 <!--
 **VanderMec/VanderMec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
